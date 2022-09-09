@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] step 1: !!!
+- [ ] step 2: ???
+- [ ] step 3: profit
